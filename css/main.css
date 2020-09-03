@@ -99,7 +99,7 @@ nav a:focus {
 
 nav a:focus {
   outline: .2rem solid #000;
-  outline-offset: .2rem;
+  outline-offset: .1rem;
 }
 
 .icon {
@@ -161,6 +161,7 @@ footer {
   display: flex;
   justify-content: center;
   padding: 1rem;
+  background-color: #1e7c74;
   background-image: url("../images/anchors.svg");
   color: #fff;
 }
